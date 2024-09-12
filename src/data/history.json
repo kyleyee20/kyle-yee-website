@@ -1,0 +1,35 @@
+[
+    {
+        "role": "Software Developer",
+        "organisation": "UCSD KSDT Radio",
+        "startDate": "Sept, 2023",
+        "endDate": "June, 2024",
+        "experiences": [
+            "Led the development of a sleek mobile app using React Native and Swift, achieving 90% user satisfaction",
+            "Implemented real-time messaging and push notifications, increasing engagement by 50% and retention by 30%"
+        ],
+        "imageSrc": "history/ksdt.png"
+    },
+    {
+        "role": "Systems Engineer Intern",
+        "organisation": "San Francisco Fire Department HQ",
+        "startDate": "June, 2023",
+        "endDate": "September, 2023",
+        "experiences": [
+            "Developed an AI chatbot using NLP, cutting firefighter handbook query time by 70%",
+            "Created a Microsoft OS solution with BASH and Python, reducing file migration time by 50%"
+        ],
+        "imageSrc": "history/sffd.png"
+    },
+    {
+        "role": "Software Developer Intern",
+        "organisation": "San Francisco Fire Department HQ",
+        "startDate": "June, 2022",
+        "endDate": "September, 2022",
+        "experiences": [
+            "Utilized SQL to design and maintain databases, improving data retrieval speed by 40%",
+            "Integrated Google Maps API to enhance 3-1-1 caller location accuracy by 25%"
+        ],
+        "imageSrc": "history/sffd.png"
+    }
+]

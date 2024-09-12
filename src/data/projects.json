@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Web Page Fighting Game",
+        "imageSrc": "projects/fightingGamePic.png",
+        "description": "This project involved HTML, CSS, and JavaScript to develop an interactive multiplayer fighting game",
+        "skills": [
+            "HTML",
+            "JavaScript",
+            "CSS"
+        ],
+        "demo": "https://kyles-fighting-game.netlify.app",
+        "source": "https://github.com/kyleyee20/fighting-game"
+    }
+]
